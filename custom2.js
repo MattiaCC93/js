@@ -1,1 +1,4 @@
-alert("funziono!");
+
+function pippo(){
+ alert("we"); 
+}
